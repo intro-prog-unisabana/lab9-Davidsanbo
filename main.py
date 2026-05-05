@@ -1,3 +1,4 @@
+
 def main():
     people = []  # List to store all Person objects
 
